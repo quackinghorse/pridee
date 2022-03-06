@@ -1,0 +1,39 @@
+body{
+    background-image:url("https://www.gannett-cdn.com/-mm-/78ceccaa995070a3f1294b4052b68b36564f869f/c=0-205-2050-1361/local/-/media/USATODAY/USATODAY/2014/06/29/1404070776002-gay062914-023.jpg");
+    background-repeat: no-repeat;
+    background-size: 2000px 1000px;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+.my{
+    background-color: aliceblue;
+    opacity: 0.9;
+    text-align: center;
+    margin-left: 500px ;
+    margin-right: 500px ;
+    margin-top: 150px ;
+    border-radius: 4px;
+    font-weight: bold;
+}
+.why{
+     margin-left : 180px;
+    text-align: left;
+    padding: 0px;
+}
+.this{
+    margin-left: 100px;
+    font-size:10px;
+    
+}
+a:hover {
+    color: hotpink;
+  }
+  
+  input  {
+      height: 25px;
+  }
+.new{
+    background-color:rgb(104, 221, 25);
+    width: 100px;
+    cursor:hand;
+}
